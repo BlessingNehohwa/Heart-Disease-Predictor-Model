@@ -5,7 +5,7 @@ To See Project **Click**: [<b>Heart Disease Prediction</b>](https://github.com/B
 
 **Dataset Link**: [<b>Heart disease CSV</b>](https://archive.ics.uci.edu/ml/datasets/heart+Disease)
 
-Determining which factors keep employeees at an organisation and which prompt others to leave.There is a need to know the factors which can be changed to prevent the loss of good people,because the power of any organisation is in retaining their quality workforce.I had to build a binary machine learning classification model to find out,which factors led to employee attrition? I therefore trained my dataset using these three classification models:
+This
 
 **1. Logistic Regression algorithm.**
 **2. KNN algorithm.**
