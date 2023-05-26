@@ -9,6 +9,7 @@ This notebook looks into using various python based machine learning and data sc
 1. Problem definition
 2. Data
 3. Evaluation
+4. Features
 
 
 **1. Logistic Regression algorithm.**
