@@ -13,7 +13,7 @@ This notebook looks into using various python based machine learning and data sc
 5. Modelling.
 6. Experimentation.
 
-Because this problem is a 
+Because this problem is a classification problem
 
 **1. Logistic Regression algorithm.**
 **2. KNN algorithm.**
