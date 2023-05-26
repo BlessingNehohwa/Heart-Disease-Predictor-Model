@@ -5,7 +5,7 @@ To See Project **Click**: [<b>Heart Disease Prediction</b>](https://github.com/B
 
 **Dataset Link**: [<b>Heart disease CSV</b>](https://archive.ics.uci.edu/ml/datasets/heart+Disease)
 
-This notebook looks into using various python based
+This notebook looks into using various python based machine
 
 **1. Logistic Regression algorithm.**
 **2. KNN algorithm.**
