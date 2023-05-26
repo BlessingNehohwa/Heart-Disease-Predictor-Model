@@ -1,5 +1,5 @@
 # Heart-Disease-Predictor-Model
-To See Project **Click**: [<b>Heart Disease Prediction</b>](https://github.com/BlessingNehohwa/Employee_Attrition_Prediction/blob/main/Employee%20Attrition%20Prediction.ipynb)
+To See Project **Click**: [<b>Heart Disease Prediction</b>](https://github.com/BlessingNehohwa/Heart-Disease-Predictor-Model/blob/main/Heart%20Disease%20Predictor.ipynb)
 
 ### Business Problem
 
