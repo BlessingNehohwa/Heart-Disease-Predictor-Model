@@ -10,7 +10,7 @@ This notebook looks into using various python based machine learning and data sc
 2. Data.
 3. Evaluation.
 4. Features.
-5. Modelling
+5. Modelling.
 6. Experimentation
 
 
